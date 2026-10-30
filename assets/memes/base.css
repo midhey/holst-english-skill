@@ -1,0 +1,9 @@
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1080px;height:1080px;overflow:hidden}
+body{font-family:'Shantell Sans','Comic Sans MS',sans-serif;color:#1d1d1f;background:#fff}
+.tag{position:absolute;right:36px;bottom:28px;font-size:26px;color:#7A1F2B;font-weight:700;opacity:.85}
+.e{font-family:'Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif;line-height:1}
+.badge{display:inline-block;background:#7A1F2B;color:#fff;border-radius:999px;padding:8px 26px;font-size:30px;font-weight:700}
+b,strong{font-weight:800}
+.hl{background:#FFE58F;padding:0 8px;border-radius:8px}
+.no{color:#C0392B;text-decoration:line-through;text-decoration-thickness:4px}
